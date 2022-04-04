@@ -18,13 +18,13 @@ if(isset($_POST['submit'])){
 ?>
 <link rel="stylesheet" href="b.scss"/>
 <link rel="stylesheet" href="d.scss"/>
-<link rel="stylesheet" href="./frontend/css/BARRA.css" />
-    <link rel="stylesheet" href="./frontend/css/estilos.css" />
-    <link rel="stylesheet" href="./frontend/css/navbar.css" />
+<link rel="stylesheet" href="./frontend/css/BARRA.css"/>
+    <link rel="stylesheet" href="./frontend/css/estilos.css"/>
+    <link rel="stylesheet" href="./frontend/css/navbar.css"/>
 <nav class="navbar">
       <div class="logo">Iron<span>BUG</span></div>
 
-      <input type="checkbox" id="burger-checkbox" />
+      <input type="checkbox" id="burger-checkbox"/>
       <label for="burger-checkbox" class="burger-label"></label>
 
       <ul class="navbar-list">
