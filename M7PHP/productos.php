@@ -35,8 +35,7 @@ if(isset($_POST['buscar'])){
     <link rel="stylesheet" href="./frontend/css/BARRA.css" />
     <link rel="stylesheet" href="./frontend/css/estilos.css" />
     <link rel="stylesheet" href="./frontend/css/navbar.css" />
-    
- 
+  
 </head>
     <body>
     <nav class="navbar">
@@ -46,7 +45,7 @@ if(isset($_POST['buscar'])){
       <label for="burger-checkbox" class="burger-label"></label>
 
       <ul class="navbar-list">
-        <li class="navbar-item"><a href="index.php">Inicio</a></li>
+        <li class="navbar-item"><a href="index.html">Inicio</a></li>
         <li class="navbar-item"><a href="productos.php">Productos</a></li>
         <li class="navbar-item"><a href="https://www.reddit.com/r/deathrush/comments/s4cwzu/rdeathrush_lounge/">Foro</a></li>
         <?php
@@ -109,16 +108,8 @@ if(isset($_POST['buscar'])){
                 </div>
                 <br>
             </section>";
-          }
-        
-          
-        
-       
+          }       
         ?>
-        
-
-
-    
     </body>
     </html>
    
