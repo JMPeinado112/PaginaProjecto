@@ -8,7 +8,7 @@ $usuario2="";
 $servidor="localhost";
 $usuarioBD="root";
 $password="usbw";
-$bd="daw2";
+$bd="ironbug";
 if(isset($_POST['submit']))
 { 
 $filepath = $_FILES["foto"]["name"];

@@ -10,7 +10,7 @@ $precio = $_POST['precio'];
 $servidor="localhost";
 $usuarioBD="root";
 $password="usbw";
-$bd="daw2";
+$bd="ironbug";
 ?>
 <head>
 <meta charset="UTF-8">

@@ -7,7 +7,7 @@ $where="";
 $servidor="localhost";
 $usuarioBD="root";
 $password="usbw";
-$bd="daw2";
+$bd="ironbug";
 $con=mysqli_connect($servidor,$usuarioBD,$password,$bd);
 if(isset($_POST['buscar'])){
   if(empty($POST['xcarrera'])){

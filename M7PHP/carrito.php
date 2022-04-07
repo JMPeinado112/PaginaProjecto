@@ -39,7 +39,7 @@ foreach ($_SESSION['carrito'] as $value) {
     $servidor="localhost";
     $usuarioBD="root";
     $password="usbw";
-    $bd="daw2";   
+    $bd="ironbug";   
     $con=mysqli_connect($servidor,$usuarioBD,$password,$bd);
 $sql="SELECT * FROM `productos` WHERE `id` = $value";
     $consulta=mysqli_query($con,$sql);

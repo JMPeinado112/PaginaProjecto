@@ -4,7 +4,7 @@ $nombre="hola";
 $servidor="localhost";
 $usuarioBD="root";
 $password="usbw";
-$bd="daw2";
+$bd="ironbug";
 
 $_SESSION["NICK_LOGEADO"]=$nombre;
 

@@ -8,7 +8,7 @@ echo $_SESSION['foto2'];
 $servidor="localhost";
 $usuarioBD="root";
 $password="usbw";
-$bd="daw2";
+$bd="ironbug";
 $nombre=$_POST["usuario"];
 $rol=$_POST["rol"];
 $id=$_SESSION["id"];

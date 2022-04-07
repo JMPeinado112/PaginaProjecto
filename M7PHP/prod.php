@@ -9,7 +9,7 @@ $where="";
 $servidor="localhost";
 $usuarioBD="root";
 $password="usbw";
-$bd="daw2";
+$bd="ironbug";
 $contador=0;
 $con=mysqli_connect($servidor,$usuarioBD,$password,$bd);
 isset($_POST['buscar']);

@@ -6,7 +6,7 @@ $id=$_GET["id"];
 $servidor="localhost";
 $usuarioBD="root";
 $password="usbw";
-$bd="daw2";
+$bd="ironbug";
 $nombre=$_POST["usuario"];
 $rol=$_POST["rol"];
 
